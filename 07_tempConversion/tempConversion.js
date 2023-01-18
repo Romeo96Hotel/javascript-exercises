@@ -8,7 +8,7 @@ const convertToFahrenheit = function (num) {
   return Math.round(newNum * 10) / 10;
 };
 
-// Do not edit below this line
+// Do not edit below this line.
 module.exports = {
   convertToCelsius,
   convertToFahrenheit,
